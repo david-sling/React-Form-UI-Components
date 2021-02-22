@@ -45,7 +45,9 @@ Click to [here](https://react-form-ui-example.davidsling.in/) see live example
 ##### Import:
     import { InputTitle, TextInput, MDinput, FileInput, RadioInput } from './components/Input'
 <br>
+
 ##### Usage:
+
 ##### `<InputTitle>`
     <InputTitle
         title='title'
